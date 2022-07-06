@@ -1,0 +1,13 @@
+/* Hello */
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.about_barber_header, .open {
+  background-color: blue;
+}
+
+#how_are_you {
+  background-color: blueviolet;
+}
